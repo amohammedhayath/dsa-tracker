@@ -20,6 +20,7 @@ const PROBLEM_DATA = {
     { id: 'tp1', title: "Two Sum II - Input Array Is Sorted", difficulty: "Easy", link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/", desc: "Find two numbers in a sorted array that sum to a target value." },
     { id: 'tp2', title: "3Sum", difficulty: "Medium", link: "https://leetcode.com/problems/3sum/", desc: "Find all unique triplets that sum to zero." },
     { id: 'tp3', title: "Container With Most Water", difficulty: "Medium", link: "https://leetcode.com/problems/container-with-most-water/", desc: "Find two lines that form a container with most water." },
+    { id: 'tp4', title: "Trapping Rain Water", difficulty: "Hard", link: "https://leetcode.com/problems/trapping-rain-water/", desc: "Calculate how much water can be trapped after raining." },
   ],
   
   3: [

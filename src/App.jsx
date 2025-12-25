@@ -14,9 +14,10 @@ const PROBLEM_DATA = {
     { id: 'p1', title: "Range Sum Query - Immutable", difficulty: "Easy", link: "https://leetcode.com/problems/range-sum-query-immutable/", desc: "Calculate sum of elements between indices left and right." },
     { id: 'p2', title: "Contiguous Array", difficulty: "Medium", link: "https://leetcode.com/problems/contiguous-array/", desc: "Find max length of contiguous subarray with equal 0s and 1s." },
     { id: 'p3', title: "Subarray Sum Equals K", difficulty: "Medium", link: "https://leetcode.com/problems/subarray-sum-equals-k/", desc: "Total number of subarrays whose sum equals to k." },
+    { id: 'p4', title: "Product of Array Except Self", difficulty: "Medium", link: "https://leetcode.com/problems/product-of-array-except-self/", desc: "Return an array output such that output[i] is equal to the product of all the elements of nums except nums[i]." }
   ],
   2: [
-    { id: 'tp1', title: "Valid Palindrome", difficulty: "Easy", link: "https://leetcode.com/problems/valid-palindrome/", desc: "Check if phrase is palindrome ignoring non-alphanumeric." },
+    { id: 'tp1', title: "Two Sum II - Input Array Is Sorted", difficulty: "Easy", link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/", desc: "Find two numbers in a sorted array that sum to a target value." },
     { id: 'tp2', title: "3Sum", difficulty: "Medium", link: "https://leetcode.com/problems/3sum/", desc: "Find all unique triplets that sum to zero." },
     { id: 'tp3', title: "Container With Most Water", difficulty: "Medium", link: "https://leetcode.com/problems/container-with-most-water/", desc: "Find two lines that form a container with most water." },
   ],
